@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,nel.goog
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
