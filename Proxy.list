@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
