@@ -62,8 +62,10 @@ DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gogl-0nd52e.com
 DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-IP-CIDR,95.161.0.0/16,no-resolv
+
 
 # Google IP
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,95.161.0.0/16,no-resolv
+IP-CIDR,142.250.0.0/16,no-resolve
